@@ -19,6 +19,7 @@ To fine-tune a transformer model for **multi-label emotion classification** usin
 2. Handled class imbalance.
 3. Fine-tuned `BERTForSequenceClassification` for multi-label classification.
 4. Encountered various dependency and compatibility issues in Google Colab (see report).
+5. Not only mentioned in `requirements.txt` file, I have tried mutiple versions of transformers (some of datasets too) but it didn't make solution.
 
 ---
 
